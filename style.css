@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(3, 144, 251);
+}
+
+h2{
+    font-size: 55px;
+    color:black;
+}
+
+p{
+    color: white;
+}
