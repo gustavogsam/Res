@@ -6,12 +6,14 @@
 }
 
 body{
-    background-color: rgb(3, 144, 251);
+    background-color: rgb(9, 2, 151);
 }
+
 
 h2{
     font-size: 55px;
-    color:black;
+    text-align: center;
+    color:rgb(255, 255, 255);
 }
 
 p{
